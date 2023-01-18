@@ -1,2 +1,1 @@
-# EmployeeWage Computation Problem where we are calculating the employee salary
-# EmployeeWageComputationProblem where we are calculating the employee salary
+# Employee Wage Computation Problem where we are calculating the employee salary
